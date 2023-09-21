@@ -1,6 +1,6 @@
 pipeline {
   agent {
-    label "ubuntu"
+    label "slave1"
   }
   stages {
     stage ('Run Docker Compose') {
