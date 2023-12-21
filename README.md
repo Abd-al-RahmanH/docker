@@ -1,2 +1,2 @@
 # docker-php-apache-mysql
-Docker PHP Apache MySql project
+Docker PHP Apache MySql project.
